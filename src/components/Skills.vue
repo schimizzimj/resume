@@ -31,6 +31,10 @@
       <Stars :numberChecked="4"/>
     </div>
     <div class="skill">
+      <h3>Node.js</h3>
+      <Stars :numberChecked="3"/>
+    </div>
+    <div class="skill">
       <h3>React</h3>
       <Stars :numberChecked="3"/>
     </div>

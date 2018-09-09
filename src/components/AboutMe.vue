@@ -14,7 +14,7 @@
       Donec sodales semper aliquam. Sed mollis ante dignissim, sollicitudin
       orci nec, pretium ex. Proin et lobortis nisl. Curabitur ullamcorper non
       turpis id efficitur. Ut eu lectus volutpat augue pretium maximus."
-      image="https://via.placeholder.com/300x300"
+      image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,w_400/v1504125682/prog_vxcr4o.jpg"
       orientation="left"
     />
     <Subcomponent
@@ -29,7 +29,7 @@
       Donec sodales semper aliquam. Sed mollis ante dignissim, sollicitudin
       orci nec, pretium ex. Proin et lobortis nisl. Curabitur ullamcorper non
       turpis id efficitur. Ut eu lectus volutpat augue pretium maximus."
-      image="https://via.placeholder.com/300x300"
+      image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,w_400/v1536386558/pexels-photo-164745_ia7yrf.jpg"
       orientation="right"
     />
     <Subcomponent
@@ -44,7 +44,7 @@
       Donec sodales semper aliquam. Sed mollis ante dignissim, sollicitudin
       orci nec, pretium ex. Proin et lobortis nisl. Curabitur ullamcorper non
       turpis id efficitur. Ut eu lectus volutpat augue pretium maximus."
-      image="https://via.placeholder.com/300x300"
+      image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,w_400/v1536468998/38151529_1729535687101263_3329993719179902976_o_xrn2gl.jpg"
       orientation="left"
     />
     <Subcomponent
@@ -59,7 +59,7 @@
       Donec sodales semper aliquam. Sed mollis ante dignissim, sollicitudin
       orci nec, pretium ex. Proin et lobortis nisl. Curabitur ullamcorper non
       turpis id efficitur. Ut eu lectus volutpat augue pretium maximus."
-      image="https://via.placeholder.com/300x300"
+      image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_crop,h_500,w_500,x_67,y_154/c_scale,h_300/v1536469801/IMG_0788_vwv9b1.jpg"
       orientation="right"
     />
     <Subcomponent
@@ -74,7 +74,7 @@
       Donec sodales semper aliquam. Sed mollis ante dignissim, sollicitudin
       orci nec, pretium ex. Proin et lobortis nisl. Curabitur ullamcorper non
       turpis id efficitur. Ut eu lectus volutpat augue pretium maximus."
-      image="https://via.placeholder.com/300x300"
+      image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,w_400/v1536386991/IMG_6011_dwppov.jpg"
       orientation="left"
     />
   </section>

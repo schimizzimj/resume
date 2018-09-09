@@ -1,11 +1,11 @@
 <template>
   <div class="home">
     <Header msg="Marcus J. Schimizzi"/>
-    <Contents/>
-    <AboutMe/>
-    <Education/>
+    <!-- <Contents/> -->
+    <!-- <AboutMe/> -->
+    <!-- <Education/> -->
     <Projects/>
-    <Experience/>
+    <!-- <Experience/> -->
     <Skills/>
     <SocialMedia/>
     <Footer/>

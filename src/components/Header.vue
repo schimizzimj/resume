@@ -21,6 +21,7 @@ a {
 }
 .header {
   position: relative;
+  margin-bottom: 30px;
 }
 h1 {
   position: absolute;

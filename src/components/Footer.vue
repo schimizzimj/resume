@@ -2,7 +2,7 @@
 
   <section id="footer" class="footer">
     <h1>Well that's me.</h1>
-    <h1>Let me know if you want to <a href="#">connect</a>.</h1>
+    <h1>Let me know if you want to <a href="mailto:mschimiz@nd.edu">connect</a>.</h1>
   </section>
 
 </template>

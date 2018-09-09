@@ -51,4 +51,8 @@ export default class Sub extends Vue {
     width: calc(100%/3);
     height: $height;
   }
+  h2 {
+    font-weight: bold;
+    font-size: 48px;
+  }
 </style>

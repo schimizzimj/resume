@@ -36,6 +36,7 @@ export default class Contents extends Vue {
     width: 80%;
     margin: 0 auto;
     height: 200px;
+    margin-bottom: 30px;
   }
   .half {
     width: calc(99%/2);
