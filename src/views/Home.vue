@@ -3,7 +3,7 @@
     <Header msg="Marcus J. Schimizzi"/>
     <!-- <Contents/> -->
     <!-- <AboutMe/> -->
-    <!-- <Education/> -->
+    <Education/>
     <Projects/>
     <Experience/>
     <Skills/>
