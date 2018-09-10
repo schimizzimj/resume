@@ -62,4 +62,11 @@ export default class ExperienceComponent extends Vue {
     font-weight: bold;
     font-size: 48px;
   }
+  ul {
+    list-style: none;
+  }
+  li {
+    padding-bottom: 20px;
+    font-size: 1.2em;
+  }
 </style>
