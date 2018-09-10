@@ -87,6 +87,11 @@ export default class Skills extends Vue {
     display: table;
     clear: both;
   }
+  .skill:hover {
+    h3 {
+      font-size: 2.5em;
+    }
+  }
   .skill {
     width: 20%;
     float: left;
@@ -105,5 +110,8 @@ export default class Skills extends Vue {
   h3 {
     font-size: 2em;
     margin: 0;
+    -webkit-transition: all 425ms ease;
+    -moz-transition: all 425ms ease;
+    transition: all 425ms ease;
   }
 </style>

@@ -1,7 +1,7 @@
 <template lang="html">
 
   <section id="projects" class="projects">
-    <h1>Projects</h1>
+    <h1 class="section-title">Projects</h1>
     <Subcomponent
       title="Sentiment Analysis Web Application"
       text="At a hackathon hosted by Credit Suisse at their office in New York,

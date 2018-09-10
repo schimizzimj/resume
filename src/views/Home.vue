@@ -5,7 +5,7 @@
     <!-- <AboutMe/> -->
     <!-- <Education/> -->
     <Projects/>
-    <!-- <Experience/> -->
+    <Experience/>
     <Skills/>
     <SocialMedia/>
     <Footer/>

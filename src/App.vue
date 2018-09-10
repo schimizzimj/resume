@@ -27,4 +27,7 @@
     }
   }
 }
+.section-title {
+  font-size: 4.5em;
+}
 </style>

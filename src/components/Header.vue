@@ -28,6 +28,20 @@ h1 {
   top: 40%;
   left: 15%;
   font-size: 4em;
+  transition: font-size 425ms ease;
+  // animation: pulse 10s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    font-size: 4em;
+  }
+  50% {
+    font-size: 4.3em;
+  }
+  100% {
+    font-size: 4em;
+  }
 }
 
 </style>
