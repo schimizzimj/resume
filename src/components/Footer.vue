@@ -23,4 +23,10 @@ export default class Footer extends Vue {
   h1 {
     font-size: 3em;
   }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    color: green;
+  }
 </style>

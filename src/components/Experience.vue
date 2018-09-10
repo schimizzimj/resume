@@ -2,7 +2,7 @@
 
   <section id="experience" class="experience">
     <h1 class="section-title">Experience</h1>
-    <ExperienceComponent
+    <ExperienceSubcomponent
       role="Software Developer Intern"
       company="Ford Motor Company"
       v-bind:text="['Worked on development of two web applications using technology stack of Java, Spring Boot, and Angular',
@@ -11,7 +11,7 @@
       image="http://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,h_181/v1536547380/580b585b2edbce24c47b2c67_hpiuik.png"
       orientation="right"
     />
-    <ExperienceComponent
+    <ExperienceSubcomponent
       role="Freelance Web Developer"
       company="Self"
       v-bind:text="['Used frontend frameworks (Angular & Vue) to update/develop websites & applications',
@@ -20,7 +20,7 @@
       image="https://res.cloudinary.com/marcusschimizzi/image/upload/c_scale,h_250/v1536554701/pexels-photo-270404_dgsbtx.jpg"
       orientation="left"
     />
-    <ExperienceComponent
+    <ExperienceSubcomponent
 
       role="Computer Science Tutor"
       company="University of Notre Dame"
@@ -35,11 +35,11 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
-import ExperienceComponent from '@/components/ExperienceComponent.vue';
+import ExperienceSubcomponent from '@/components/ExperienceSubcomponent.vue';
 
 @Component({
   components: {
-    ExperienceComponent,
+    ExperienceSubcomponent,
   },
 })
 export default class Experience extends Vue {
