@@ -50,6 +50,9 @@ export default class Sub extends Vue {
   .third {
     width: calc(100%/3);
     height: $height;
+    @media screen and (max-width: 600px) {
+      width: 100%;
+    }
   }
   h2 {
     font-weight: bold;
