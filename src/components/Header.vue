@@ -22,6 +22,16 @@ a {
 .header {
   position: relative;
   margin-bottom: 30px;
+  @media screen and (max-width: 600px) {
+    img {
+      width: 100%;
+    }
+    h1 {
+      top: 10%;
+      font-size: 2em;
+      color: silver;
+    }
+  }
 }
 h1 {
   position: absolute;
