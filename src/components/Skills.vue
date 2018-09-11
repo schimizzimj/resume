@@ -1,7 +1,7 @@
 <template lang="html">
 
   <section id="skills" class="skills">
-    <h1>Skills</h1>
+    <h1 class="section-title">Skills</h1>
     <div class="skill">
       <h3>C</h3>
       <Stars :numberChecked="4"/>
