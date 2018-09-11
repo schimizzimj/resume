@@ -50,6 +50,12 @@ export default class Education extends Vue {
   $height: 500px;
   .education {
     height: $height;
+    @media screen and (max-width: 1560px) {
+      height: $height * 2;
+    }
+    @media screen and (max-width: 600px) {
+      height: $height;
+    }
   }
   .float {
     float: left;
@@ -75,10 +81,18 @@ export default class Education extends Vue {
   }
   ul {
     list-style: none;
+    padding: 0;
   }
   li {
     float: left;
-    width: 15em;
+    width: 50%;
     padding: 5px 0;
+    @media screen and (max-width: 1560px) {
+      width: 100%;
+    }
+    @media screen and (max-width: 600px) {
+      width: calc(100%/3);
+      height: 55px;
+    }
   }
 </style>
