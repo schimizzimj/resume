@@ -33,7 +33,7 @@ a {
   }
 }
 img {
-  height: 100vh;
+  width: 100vw;
 }
 h1 {
   position: absolute;

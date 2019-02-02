@@ -4,9 +4,9 @@
     <!-- <Contents/> -->
     <!-- <AboutMe/> -->
     <!-- <Education/>
-    <Projects/>
+    <Projects/> -->
     <Experience/>
-    <Skills/> -->
+    <Skills/>
     <SocialMedia/>
     <!-- <Footer/> -->
   </div>
